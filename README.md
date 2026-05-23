@@ -7,18 +7,8 @@
 - Hitung total harga 
 - Validasi uang bayar & hitung kembalian
 
-## 🛍️ Daftar Onderdil & Harga
-
-| No | Onderdil | Harga |
-|----|----------|-------|
-| 1 | Oli Motor | Rp 65.000 |
-| 2 | Kampas Rem Belakang | Rp 30.000 |
-| 3 | Busi Motor | Rp 25.000 |
-| 4 | Ban Luar | Rp 250.000 |
-| 5 | Aki Motor | Rp 280.000 |
-| 6 | Kampas Kopling | Rp 135.000 |
-| 7 | Air Radiator | Rp 40.000 |
-| 8 | Cakram Rem | Rp 185.000 |
+Contoh tampilan dashboard analisis HR:
+![demo program](screenshot_demo.png)
 
 ## ⚙️ Cara Menjalankan
 
