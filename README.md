@@ -7,8 +7,7 @@
 - Hitung total harga 
 - Validasi uang bayar & hitung kembalian
 
-Contoh tampilan dashboard analisis HR:
-![demo program](screenshot_demo.png)
+![demo program](screenshot demo.png)
 
 ## ⚙️ Cara Menjalankan
 
