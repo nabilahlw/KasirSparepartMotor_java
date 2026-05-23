@@ -7,7 +7,8 @@
 - Hitung total harga 
 - Validasi uang bayar & hitung kembalian
 
-![demo program](screenshot demo.png)
+## 🖥️ Tampilan Program
+![Demo Kasir Sparepart](screenshot%20demo.png)
 
 ## ⚙️ Cara Menjalankan
 
