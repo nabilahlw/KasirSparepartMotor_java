@@ -1,4 +1,4 @@
-# 🔧 Kasir Sparepart Motor — Sistem Kasir Bengkel Motor Berbasis Java
+# 🔧 Kalkulasi Sistem Kasir Sparepart Motor Berbasis Java
 
 ## ✨ Fitur
 
